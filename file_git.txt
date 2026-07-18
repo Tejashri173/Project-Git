@@ -1,5 +1,4 @@
+My first line  to Git hub
+Learning AI
 
 
-
-This is all about Git Hub
-First change
