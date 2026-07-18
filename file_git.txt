@@ -1,6 +1,1 @@
-This is all about Git Hub.
-Learning is fun.
-18/07/2026
-
-Git add - to add to staging
-Git commit - to commit the change
+This is all about Git Hub
