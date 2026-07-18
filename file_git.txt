@@ -1,1 +1,2 @@
-This is all about Git Hub
+This is all about Git Hub.
+Learning is fun.
